@@ -1,0 +1,22 @@
+{
+  "name": "workout_application",
+  "version": "0.0.0",
+  "description": "Simple workout app for personal use. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JoshuaRogan/workout"
+  },
+  "author": "Josh Rogan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JoshuaRogan/workout/issues"
+  },
+  "dependencies": {
+    "express": "~4.10.6"
+  }
+}
